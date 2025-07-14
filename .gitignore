@@ -44,5 +44,5 @@ llm.log
 Thumbs.db
 
 # Specific to this project
-# Models are kept as they are fine-tuned and might be desired to be tracked
-# models/
+# Ignore all models as they are large files
+models/
