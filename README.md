@@ -65,3 +65,5 @@ This project demonstrates fine-tuning a Question Answering (QA) model using LoRA
 └───train_data/
     └───qa_dataset.jsonl
 ```
+
+> Daily check update on 2026-01-28T14:13:57Z
